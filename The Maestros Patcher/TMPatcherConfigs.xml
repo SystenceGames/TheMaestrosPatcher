@@ -1,0 +1,11 @@
+<TMPatcherConfigs>
+	<patchPath>http://patches.maestrosgame.com/tm-release/</patchPath> 
+	<gameFolder>\Game</gameFolder>
+	<executableDomain>Binaries\Win32\</executableDomain>	
+	<executableName>UDK.exe</executableName>
+	<!-- List of File & directory names to exclude-->
+	<excludeFile>TM-Updater.exe</excludeFile>
+	<excludeFile>Stats</excludeFile>
+	<excludeFile>Logs</excludeFile>
+  <excludeFile>InstallInfo.xml</excludeFile>
+</TMPatcherConfigs>
